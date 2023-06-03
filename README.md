@@ -1,7 +1,11 @@
+![download (1)](https://github.com/geracharu/geracharu/assets/75072050/796783c0-0ed9-473d-b55d-08aca4f13e13)
 
 <h1 align="center">Hi 👋, I'm Charu Gera</h1>
 <h3 align="center">A passionate Data Analyst from London, UK</h3>
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+
+
+![download](https://github.com/geracharu/geracharu/assets/75072050/fb3af680-871f-424e-85fc-68b7b35c9911)
+
 
 - 🌱 I’m currently learning **Data Engineering Technologies**
 
