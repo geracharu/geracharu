@@ -7,7 +7,7 @@
 ![download](https://github.com/geracharu/geracharu/assets/75072050/fb3af680-871f-424e-85fc-68b7b35c9911)
 
 
-- 🌱 I’m currently learning **Data Engineering Technologies**
+- 🌱 I’m currently learning **Data Analyst/Engineering Technologies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/geracharu](https://github.com/geracharu)
 
