@@ -1,7 +1,11 @@
-![download (1)](https://github.com/geracharu/geracharu/assets/75072050/796783c0-0ed9-473d-b55d-08aca4f13e13)
+
+![Blue Geometric Technology LinkedIn Banner(8)](https://github.com/geracharu/geracharu/assets/75072050/2bdc79c7-90e2-4960-8e03-e2a38f99ab4a)
+
+
 
 <h1 align="center">Hi 👋, I'm Charu Gera</h1>
-<h3 align="center">A passionate Data Analyst from London, UK</h3>
+
+<h3 align="center">A passionate Data Professional from London, UK</h3>
 
 
 ![download](https://github.com/geracharu/geracharu/assets/75072050/fb3af680-871f-424e-85fc-68b7b35c9911)
